@@ -1,0 +1,28 @@
+.box {
+  text-align: center;
+  background-color: brown  ;
+  height: 200px;
+  width: 50%;
+  margin: 20px;
+}
+
+.width {
+  width: 60%;
+}
+
+.height {
+  height: 500px;
+}
+
+.body {
+  text-align: center;
+}
+
+button {
+  background-color: #d9e8fb;
+  color: #4d4d87;
+  border-radius: 20px;
+  padding: 3px 12px 3px 12px;
+  font-weight: bold;
+  border: 0px solid;
+}
